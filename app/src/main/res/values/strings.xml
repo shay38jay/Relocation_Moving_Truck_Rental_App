@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Relocation Moving Truck Rental App</string>
+    <string name="txtTitle">Relocation Moving Truck</string>
+    <string name="hint1">Enter Truck Foot (10, 17, or 26)</string>
+    <string name="hint2">Enter Miles</string>
+    <string name="hint3">Trucking Fee (10(19.99), (17(29.95), 26(39.95)</string>
+    <string name="txtMiles">Number of Miles</string>
+    <string name="imgDescription">Truck Image</string>
+    <string name="btnRental">RENTAL FEE</string>
+
+</resources>
